@@ -1,7 +1,3 @@
-
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
     <title>Kathryn Ellen Walton</title>
     <meta name="description" content="Kathryn Ellen Walton">
     <meta name="author" content="Kathryn Ellen Walton">
