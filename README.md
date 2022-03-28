@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <title>Kathryn Ellen Walton</title>
-    <meta name="description" content="Benjamin Laird">
-    <meta name="author" content="Benjamin Laird">
+    <meta name="description" content="Kathryn Ellen Walton">
+    <meta name="author" content="Kathryn Ellen Walton">
     <link rel="stylesheet" href="css/styles.css?v=1.0">
   </head>
   <body>
